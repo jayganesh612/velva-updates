@@ -1,1 +1,1 @@
-# velva-updates
+App updates repo
